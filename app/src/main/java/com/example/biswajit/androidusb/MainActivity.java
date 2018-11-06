@@ -52,8 +52,6 @@ public class MainActivity extends Activity {
 
     ArrayList<String> fwUpdateCommands = new ArrayList();
 
-    boolean git;
-
     final int timeout = 5000; // ms
     final int maxTries = 5;
     final int packet_to = 200;
